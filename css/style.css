@@ -1,11 +1,11 @@
 /* M+ OUTLINE FONTS are free software by http://mplus-fonts.sourceforge.jp/webfonts/ */
-@font-face {
+/*@font-face {
     font-family: "mplus-2p-regular";
     src: url("http://mplus-fonts.sourceforge.jp/webfonts/mplus-2p-regular.ttf") format("truetype");
-}
+}*/
 
 body {
-    font-family: "mplus-2p-regular", sans-serif;
+    font-family: /*"mplus-2p-regular", */sans-serif;
     /*color: #efefef;*/
     /*background-color: #333;*/
     width: 80%;
