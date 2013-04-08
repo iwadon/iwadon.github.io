@@ -1,8 +1,8 @@
 ---
 layout: default
-title: iwadon.github.com
+title: iwadon.github.io
 ---
-iwadon.github.com
+iwadon.github.io
 =================
 
 Profile
