@@ -22,6 +22,10 @@ Links
 Works
 -----
 
+### 2014
+
+- [Rom Cassette Disc in NATSUME vol3 Powered by TAITO](http://claricedisc.shop-pro.jp/?pid=69677308) - Composer
+
 ### 2011
 
 - [勇者30 SECOND](http://www.maql.co.jp/special/game/30s/) (PSP) - One of composers
