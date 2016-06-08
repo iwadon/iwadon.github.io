@@ -38,8 +38,8 @@ Works
 
 ### 2008
 
-- [Omega Five Soundtrack]([Sweeprecord](http://sweeprecord.com/?p=118) (CD) - Composer, One of arrangers
-- [Omega Five]([Xbox.com](http://marketplace.xbox.com/ja-JP/Product/Omega-Five/66acd000-77fe-1000-9115-d802584108a5) (Xbox LIVE Arcade) - Composer, Sound programmer
+- [Omega Five Soundtrack]([Sweeprecord](http://sweeprecord.com/?p=118)) (CD) - Composer, One of arrangers
+- [Omega Five]([Xbox.com](http://marketplace.xbox.com/ja-JP/Product/Omega-Five/66acd000-77fe-1000-9115-d802584108a5)) (Xbox LIVE Arcade) - Composer, Sound programmer
 
 ### 1994
 
