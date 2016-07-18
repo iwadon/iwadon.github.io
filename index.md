@@ -8,7 +8,7 @@ iwadon.github.io
 Profile
 -------
 
-Hiroyuki Iwatsuki is a sound director/programmer/composer for video game software at [Natsume Atari Inc.](http://www.natsumeatari.co.jp/).
+Hiroyuki Iwatsuki is a sound director/programmer/composer for video game software at [NatsumeAtari Inc.](http://www.natsumeatari.co.jp/).
 
 Links
 -----
