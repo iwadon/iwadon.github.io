@@ -22,6 +22,10 @@ Links
 Works
 -----
 
+### 2016
+
+- [WILD GUNS Reloaded](http://www.natsumeatari.co.jp/wild-guns-reloaded/) - Composer, Sound Programmer
+
 ### 2014
 
 - [Rom Cassette Disc in NATSUME vol3 Powered by TAITO](http://claricedisc.shop-pro.jp/?pid=69677308) - Composer
