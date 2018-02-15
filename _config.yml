@@ -1,4 +1,4 @@
 safe: true
 source: .
 
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: jekyll/minima
