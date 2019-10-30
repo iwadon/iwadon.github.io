@@ -22,6 +22,11 @@ Links
 Works
 -----
 
+### 2019
+
+- [THE NINJA WARRIORS TRILOGY ALBUM](https://zuntata.jp/lineup/zttl3007.html) - Composer
+- [THE NINJA WARRIORS ONCE AGAIN](https://www.natsumeatari.co.jp/tnwoa/) - Composer, Sound Programmer
+
 ### 2016
 
 - [WILD GUNS Reloaded](http://www.natsumeatari.co.jp/wild-guns-reloaded/) - Composer, Sound Programmer
