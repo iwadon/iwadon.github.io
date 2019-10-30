@@ -16,7 +16,7 @@ Links
 - [Twitter](http://twitter.com/iwadon)
 - [GitHub](http://github.com/iwadon)
 - [Tumblr](http://iwadon.tumblr.com/)
-- [Hatena Diary](http://d.hatena.ne.jp/iwadon/)
+- [Hatena Diary](https://iwadon.hatenadiary.jp/)
 - [Hatena Blog](http://iwadon.hateblo.jp/)
 
 Works
