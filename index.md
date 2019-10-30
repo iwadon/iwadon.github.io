@@ -14,6 +14,7 @@ Links
 -----
 
 - [Twitter](http://twitter.com/iwadon)
+- [Blog](http://moonrock.jp/~don/g/)
 - [GitHub](http://github.com/iwadon)
 - [Tumblr](http://iwadon.tumblr.com/)
 - [Hatena Diary](https://iwadon.hatenadiary.jp/)
