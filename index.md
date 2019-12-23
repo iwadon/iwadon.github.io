@@ -13,12 +13,12 @@ Hiroyuki Iwatsuki is a sound director/programmer/composer for video game softwar
 Links
 -----
 
-- [Twitter](http://twitter.com/iwadon)
+- [Twitter](https://twitter.com/iwadon)
 - [Blog](http://moonrock.jp/~don/g/)
-- [GitHub](http://github.com/iwadon)
-- [Tumblr](http://iwadon.tumblr.com/)
+- [GitHub](https://github.com/iwadon)
+- [Tumblr](https://iwadon.tumblr.com/)
 - [Hatena Diary](https://iwadon.hatenadiary.jp/)
-- [Hatena Blog](http://iwadon.hateblo.jp/)
+- [Hatena Blog](https://iwadon.hateblo.jp/)
 - [Scrapbox](https://scrapbox.io/iwadon/)
 
 Works
