@@ -2,9 +2,6 @@
 layout: default
 title: iwadon.github.io
 ---
-iwadon.github.io
-=================
-
 Profile
 -------
 
